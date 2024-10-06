@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website1", "Website1\Website1.csproj", "{F9FD4045-C694-4543-B270-E968A47B5339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website2", "BaiTap2\Website2.csproj", "{5027B8CB-00A7-4FD6-A9B2-5D5C12C92C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9FD4045-C694-4543-B270-E968A47B5339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9FD4045-C694-4543-B270-E968A47B5339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9FD4045-C694-4543-B270-E968A47B5339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5027B8CB-00A7-4FD6-A9B2-5D5C12C92C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5027B8CB-00A7-4FD6-A9B2-5D5C12C92C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5027B8CB-00A7-4FD6-A9B2-5D5C12C92C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5027B8CB-00A7-4FD6-A9B2-5D5C12C92C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

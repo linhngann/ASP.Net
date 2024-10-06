@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TrangChu</title>
+    <style>
+        *{
+            margin: 0 auto;
+            padding: 0px;
+        }
+        body {
+            width: 100%;
+        }
+        .menu{
+
+        }
+            .menu li:hover{
+                background-color:red;
+            }
+            .menu li {
+                display: inline-block;
+                background-color: pink;
+                padding: 10px 20px;
+                margin-right: -4px;
+            }
+            .menu li a{
+                text-decoration:none;
+                color:white;
+            }
+    </style>
+</head>
+
+<body>
+    @*Menu*@
+    <ul class="menu">
+        <li><a href="~/Home/TrangChu">Trang chủ</a></li>
+        <li><a href="~/Home/ThongTin">Thông tin</a></li>
+        <li><a href="~/Home/DangNhap">Đăng nhập</a></li>
+    </ul>
+    <div>
+        This is Home Page
+    </div>
+</body>
+</html>
