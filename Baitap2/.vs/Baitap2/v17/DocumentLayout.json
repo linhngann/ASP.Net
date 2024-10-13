@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\sevices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\sevices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\sevices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LayoutUser.cshtml",
               "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "RelativeDocumentMoniker": "Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "RelativeToolTip": "Baitap2\\Views\\Shares\\LayoutUser.cshtml",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAowHEAAAAdAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T08:13:36.935Z",
               "IsPinned": true,
@@ -52,20 +52,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALIBAAAAAAAAAAAAALoBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:04:36.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap2\\Views\\About\\Index.cshtml",
               "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Baitap2\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T09:34:25.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "Baitap2\\Views\\News\\Index.cshtml",
@@ -73,8 +86,7 @@
               "RelativeToolTip": "Baitap2\\Views\\News\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:58:53.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T08:58:53.864Z"
             },
             {
               "$type": "Document",
@@ -86,21 +98,7 @@
               "RelativeToolTip": "Baitap2\\Views\\Contact\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:33:38.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baitap2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Baitap2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:58:54.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:33:38.421Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "Baitap2\\Views\\Sevices\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:56:56.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T08:56:56.947Z"
             }
           ]
         }
