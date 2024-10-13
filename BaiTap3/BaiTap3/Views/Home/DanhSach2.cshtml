@@ -1,0 +1,33 @@
+﻿
+@model List<BaiTap3.Models.MayTinh>
+@{
+    Layout = null;
+}
+<style>
+    table, th, td, tr {
+        border: 1px solid black;
+    }
+</style>
+<h3>Danh sách máy tính</h3>
+<a href="~/Home/DanhSach2">Danh sách 2 máy tính giá thấp nhất</a>
+<a href="~/Home/SapXep">Danh sách sắp xếp tăng dần theo giá</a>
+<a href="~/Home/Ten">Danh sách máy asus</a>
+<table cellpadding="0" cellspacing="0" style="width:900px">
+    <tr>
+        <th>Mã máy</th>
+        <th>Tên máy</th>
+        <th>Giá bán</th>
+        <th>Ngày sản xuất</th>
+        <th>Hãng sản xuất</th>
+    </tr>
+    @foreach (BaiTap3.Models.MayTinh item in Model)
+    {
+        <tr>
+            <td>@item.MaMay</td>
+            <td>@item.TenMay</td>
+            <td>@string.Format("{0:#,0}", item.GiaBan)</td>
+            <td>@string.Format("{0:dd/MM/yyyy}", item.NgaySanXuat)</td>
+            <td>@item.HangSanXuat</td>
+        </tr>
+    }
+</table>
