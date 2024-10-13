@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\helper\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\helper\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|d:\\study\\asp.net_self_study\\asp.net\\baitap2\\baitap2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\shares\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\sevices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\sevices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\baitap2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877CEEB7-3EA5-4E1D-90FF-E868FD2206C6}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LayoutUser.cshtml",
               "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "RelativeDocumentMoniker": "Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Shares\\LayoutUser.cshtml",
               "RelativeToolTip": "Baitap2\\Views\\Shares\\LayoutUser.cshtml",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGUAAABCAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv3AAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-11T08:13:36.935Z",
               "IsPinned": true,
@@ -58,59 +50,36 @@
               "RelativeDocumentMoniker": "Baitap2\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Baitap2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAALIBAAAAAAAAAAAAALoBAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T17:04:36.059Z",
+              "WhenOpened": "2024-10-13T18:25:15.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Helper\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Baitap2\\Helper\\SinhVien.cs",
+              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Helper\\SinhVien.cs",
+              "RelativeToolTip": "Baitap2\\Helper\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:22:36.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baitap2\\Views\\About\\Index.cshtml",
-              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Baitap2\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:34:25.012Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Baitap2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Baitap2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:12:13.075Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baitap2\\Views\\News\\Index.cshtml",
-              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "Baitap2\\Views\\News\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:58:53.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baitap2\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Baitap2\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T09:33:38.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Sevices\\Index.cshtml",
-              "RelativeDocumentMoniker": "Baitap2\\Views\\Sevices\\Index.cshtml",
-              "ToolTip": "D:\\Study\\ASP.NET_self_study\\ASP.Net\\Baitap2\\Baitap2\\Views\\Sevices\\Index.cshtml",
-              "RelativeToolTip": "Baitap2\\Views\\Sevices\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T08:56:56.947Z"
             }
           ]
         }
